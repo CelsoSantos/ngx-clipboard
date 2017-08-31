@@ -90,7 +90,6 @@
     "LICENSE",
     "package.json",
     "README.md",
-    "dist",
     "src",
     "index.ts"
   ],
